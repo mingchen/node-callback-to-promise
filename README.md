@@ -1,5 +1,7 @@
 # node-callback-to-promise
 
+[![NPM](https://nodei.co/npm/node-callback-to-promise.png?downloads=true)](https://nodei.co/npm/node-callback-to-promise/)
+
 ## Introduction
 
 Encapsulate a method with a node-style callback in a Promise.
