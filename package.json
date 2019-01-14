@@ -1,0 +1,25 @@
+{
+  "name": "node-callback-to-promise",
+  "version": "1.0.1",
+  "description": "Callback to promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mingchen/node-callback-to-promise",
+    "bugs": "https://github.com/mingchen/node-callback-to-promise/issues"
+  },
+  "keywords": [
+    "node",
+    "callback",
+    "promise"
+  ],
+  "author": "Ming Chen <ming_c@hotmail.com>",
+
+  "license": "MIT",
+  "dependencies": {
+    "verror": "^1.10.0"
+  }
+}
