@@ -13,7 +13,7 @@ Encapsulate a method with a node-style callback in a Promise.
     //
     // @param {function} fn        function to be encapsulated
     // @param {object}   context   'this' of the encapsulated function
-    // @param {Array-like} args    to be passed to the called function
+    // @param {Array<any>} args    to be passed to the called function
     //
     // @return {Promise}           a Promise encapsulating the function
     //
